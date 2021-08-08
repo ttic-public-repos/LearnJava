@@ -1,3 +1,13 @@
+# How to use:
+
+make a branch for yourself from master,
+
+push your solution to the branch,
+
+on completion of each lesson report `completion` on report channel
+
+course length: 10 days  
+
 # LearnJava 
 
 This repository contains code samples and exercises to support the **Learn to Program in Java** video series.
